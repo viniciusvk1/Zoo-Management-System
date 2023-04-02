@@ -9,6 +9,7 @@ The project includes unit tests for each class to ensure correct behavior.
 ## *Getting Started*
 
 To run the project, clone the repository and open it in your favorite Java IDE. Then, run the Main class.
+
 ![Bash](images/img.png)
 
 ## *Contributing*
